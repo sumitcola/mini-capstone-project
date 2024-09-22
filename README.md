@@ -51,9 +51,7 @@ This project demonstrates a **PDF-based Question Answering (QA) system** built w
 
 4. To stop the process, type `STOP` in the question prompt.
 
-## **File Structure**
-├── project/
-│   ├── local_cola/            #pdf local repo             
+## **File Structure**            
 ├── main.py                    #Main code to run                        
 └── README.md                  #Ream it             
 
